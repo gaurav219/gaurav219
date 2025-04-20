@@ -13,15 +13,21 @@
 <h2 align="center" class="section-heading">💻 Stacks / Tools I've Worked With</h2>
 <p>Over the years of self learning and experience, I've strengthned my competence over the following technologies which are widely used in modern ecosystems.</p>
 <div align="center">
+  <img src="https://img.shields.io/badge/Anthropic (MCP)-d97757?style=for-the-badge&logo=anthropic&logoColor=black" alt="MCP"/>
+  <img src="https://img.shields.io/badge/GenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Vim-10767b?style=for-the-badge&logo=vim&logoColor=green" alt="VIM"/>
+  <img src="https://img.shields.io/badge/NeoVim-10767b?style=for-the-badge&logo=neovim&logoColor=green" alt="VIM"/>
   <img src="https://img.shields.io/badge/Emacs-815fb8?style=for-the-badge&logo=GNU+Emacs&logoColor=white" alt="Emacs"/>
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+
+
+
   <img src="https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Bash Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Docker-00ADD8?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
